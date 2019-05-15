@@ -1,0 +1,44 @@
+[
+  {
+    "TransactingCompanyID": 5,
+    "TransactionID": 1,
+    "TransactionItemID": 1,
+    "Counterparty": "Alberta Electric System Operator",
+    "TransactionType": "Power Physical Purchase/Sale",
+    "TradingBook": "Mass Markets",
+    "TradingSubBook": "Residential",
+    "Strategy": "FPVV",
+    "Location": "AB.Retail",
+    "LocationMeter": null,
+    "FacilityAccount": "870024940",
+    "StartDate": {
+      "_snaptype_localdate": "2015-01-01"
+    },
+    "EndDate": {
+      "_snaptype_localdate": "2016-02-03"
+    },
+    "DeliveryProcessed": 1,
+    "NumberOfDeals": 1
+  },
+  {
+    "TransactingCompanyID": 5,
+    "TransactionID": 2,
+    "TransactionItemID": 2,
+    "Counterparty": "Bank of Nova Scotia",
+    "TransactionType": "Power Physical Purchase/Sale",
+    "TradingBook": "Mass Markets",
+    "TradingSubBook": "Residential",
+    "Strategy": "Index",
+    "Location": "AB.MT.MATL",
+    "LocationMeter": null,
+    "FacilityAccount": "870024940",
+    "StartDate": {
+      "_snaptype_localdate": "2015-01-01"
+    },
+    "EndDate": {
+      "_snaptype_localdate": "2020-12-31"
+    },
+    "DeliveryProcessed": 1,
+    "NumberOfDeals": 1
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "Amps RRO",
+    "RETAILER_ID": 790905237,
+    "CLASS": "Residential",
+    "CONSUMPTION": 1181.9338526578508
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "Amps RRO",
+    "RETAILER_ID": 790905237,
+    "CLASS": "Small Commercial",
+    "CONSUMPTION": 504.6669969773042
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "Block",
+    "RETAILER_ID": 860090133,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 53460
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "Block",
+    "RETAILER_ID": 866314113,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 5000
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "Block",
+    "RETAILER_ID": 930416286,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 130345.28
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "Calagry RRO",
+    "RETAILER_ID": 843923450,
+    "CLASS": "Residential",
+    "CONSUMPTION": 136687.63862566653
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "Calagry RRO",
+    "RETAILER_ID": 843923450,
+    "CLASS": "Small Commercial",
+    "CONSUMPTION": 36976.74559716959
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "DEFAULT",
+    "RETAILER_ID": 585812092,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 32062.68346688058
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "EasyMax FPVV",
+    "RETAILER_ID": 870024940,
+    "CLASS": "Residential",
+    "CONSUMPTION": 247690.32467756295
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "EasyMax FPVV",
+    "RETAILER_ID": 870024940,
+    "CLASS": "Small Commercial",
+    "CONSUMPTION": 42499.41626371617
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "EasyMax Index",
+    "RETAILER_ID": 870024940,
+    "CLASS": "Residential",
+    "CONSUMPTION": 16265.135814475057
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "EasyMax Index",
+    "RETAILER_ID": 870024940,
+    "CLASS": "Small Commercial",
+    "CONSUMPTION": 2088.901999928842
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "EasyMax MPVV",
+    "RETAILER_ID": 870024940,
+    "CLASS": "Residential",
+    "CONSUMPTION": 32206.74085844854
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "EasyMax MPVV",
+    "RETAILER_ID": 870024940,
+    "CLASS": "Small Commercial",
+    "CONSUMPTION": 7655.026846741279
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "FLEX",
+    "RETAILER_ID": 860090133,
+    "CLASS": "Commercial",
+    "CONSUMPTION": -13727.274000391775
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "FLEX",
+    "RETAILER_ID": 860090133,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 11434.108640603326
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "FLEX",
+    "RETAILER_ID": 866314113,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 2502.7630156959144
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "FLEX",
+    "RETAILER_ID": 866314113,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 12708.865296395368
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "FLEX",
+    "RETAILER_ID": 930416286,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 11276.97735527067
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "FLEX",
+    "RETAILER_ID": 930416286,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 41868.42451308885
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "FPVV",
+    "RETAILER_ID": 860090133,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 31479.268013105637
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "FPVV",
+    "RETAILER_ID": 930416286,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 18556.694152977943
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "Ponoka RRO",
+    "RETAILER_ID": 790905237,
+    "CLASS": "Residential",
+    "CONSUMPTION": 992.492415606098
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "Ponoka RRO",
+    "RETAILER_ID": 790905237,
+    "CLASS": "Small Commercial",
+    "CONSUMPTION": 438.95036476946063
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "Red Deer RRO",
+    "RETAILER_ID": 790905237,
+    "CLASS": "Residential",
+    "CONSUMPTION": 11217.628334382898
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "Red Deer RRO",
+    "RETAILER_ID": 790905237,
+    "CLASS": "Small Commercial",
+    "CONSUMPTION": 4212.41529946326
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "THRESHOLD",
+    "RETAILER_ID": 860090133,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 249846.3081027121
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "THRESHOLD",
+    "RETAILER_ID": 866314113,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 20553.539226756413
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "THRESHOLD",
+    "RETAILER_ID": 930416286,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 264560.4602667271
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "THRESHOLD",
+    "RETAILER_ID": 948554635,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 6589.230732892078
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "VALEO_BLOCK",
+    "RETAILER_ID": 437618434,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 63631.077534394906
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "VALEO_FLEX",
+    "RETAILER_ID": 437618434,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 427535.5936082976
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "00",
+    "PRODUCT": "VALEO_THRESHOLD",
+    "RETAILER_ID": 437618434,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 36158.115722122915
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "01",
+    "PRODUCT": "Amps RRO",
+    "RETAILER_ID": 790905237,
+    "CLASS": "Residential",
+    "CONSUMPTION": 1096.2347845314146
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "01",
+    "PRODUCT": "Amps RRO",
+    "RETAILER_ID": 790905237,
+    "CLASS": "Small Commercial",
+    "CONSUMPTION": 467.53108798025517
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "01",
+    "PRODUCT": "Block",
+    "RETAILER_ID": 860090133,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 53460
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "01",
+    "PRODUCT": "Block",
+    "RETAILER_ID": 866314113,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 5000
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "01",
+    "PRODUCT": "Block",
+    "RETAILER_ID": 930416286,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 130231.43
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "01",
+    "PRODUCT": "Calagry RRO",
+    "RETAILER_ID": 843923450,
+    "CLASS": "Residential",
+    "CONSUMPTION": 129310.49373781343
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "01",
+    "PRODUCT": "Calagry RRO",
+    "RETAILER_ID": 843923450,
+    "CLASS": "Small Commercial",
+    "CONSUMPTION": 32089.283054509735
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "01",
+    "PRODUCT": "DEFAULT",
+    "RETAILER_ID": 585812092,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 30779.961708189858
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "01",
+    "PRODUCT": "EasyMax FPVV",
+    "RETAILER_ID": 870024940,
+    "CLASS": "Residential",
+    "CONSUMPTION": 233036.7028560685
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "01",
+    "PRODUCT": "EasyMax FPVV",
+    "RETAILER_ID": 870024940,
+    "CLASS": "Small Commercial",
+    "CONSUMPTION": 38995.769990155844
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "01",
+    "PRODUCT": "EasyMax Index",
+    "RETAILER_ID": 870024940,
+    "CLASS": "Residential",
+    "CONSUMPTION": 15323.855226049267
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "01",
+    "PRODUCT": "EasyMax Index",
+    "RETAILER_ID": 870024940,
+    "CLASS": "Small Commercial",
+    "CONSUMPTION": 1913.6932558437152
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "01",
+    "PRODUCT": "EasyMax MPVV",
+    "RETAILER_ID": 870024940,
+    "CLASS": "Residential",
+    "CONSUMPTION": 30361.70331513831
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "01",
+    "PRODUCT": "EasyMax MPVV",
+    "RETAILER_ID": 870024940,
+    "CLASS": "Small Commercial",
+    "CONSUMPTION": 6970.147704848898
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "01",
+    "PRODUCT": "FLEX",
+    "RETAILER_ID": 860090133,
+    "CLASS": "Commercial",
+    "CONSUMPTION": -14327.544222791581
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "01",
+    "PRODUCT": "FLEX",
+    "RETAILER_ID": 860090133,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 11108.267211960423
+  },
+  {
+    "REPORT_DATE": {
+      "_snaptype_localdatetime": "2015-01-01T00:00:00.000"
+    },
+    "HOUR_NUMBER": "01",
+    "PRODUCT": "FLEX",
+    "RETAILER_ID": 866314113,
+    "CLASS": "Commercial",
+    "CONSUMPTION": 2317.849013272599
+  }
+]

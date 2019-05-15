@@ -1,0 +1,302 @@
+[
+  {
+    "PRODUCT": "EasyMax FPVV ",
+    "RETAILER_ID": 870024940,
+    "CUSTOMER_CLASS": "Residential",
+    "STRATEGY": "FPVV",
+    "LOCATION": 870024940,
+    "TRADEBOOK": "Mass Markets",
+    "SUBBOOK": "Residential",
+    "LOCATION_EKA": "870024940"
+  },
+  {
+    "PRODUCT": "EasyMax Index",
+    "RETAILER_ID": 870024940,
+    "CUSTOMER_CLASS": "Residential",
+    "STRATEGY": "Index",
+    "LOCATION": 870024940,
+    "TRADEBOOK": "Mass Markets",
+    "SUBBOOK": "Residential",
+    "LOCATION_EKA": "870024940"
+  },
+  {
+    "PRODUCT": "EasyMax MPVV",
+    "RETAILER_ID": 870024940,
+    "CUSTOMER_CLASS": "Residential",
+    "STRATEGY": " Matched",
+    "LOCATION": 870024940,
+    "TRADEBOOK": "Mass Markets",
+    "SUBBOOK": "Residential",
+    "LOCATION_EKA": "870024940"
+  },
+  {
+    "PRODUCT": "EasyMax FPVV",
+    "RETAILER_ID": 870024940,
+    "CUSTOMER_CLASS": "Small Commercial",
+    "STRATEGY": "FPVV",
+    "LOCATION": 870024940,
+    "TRADEBOOK": "Mass Markets",
+    "SUBBOOK": "Small Commercial",
+    "LOCATION_EKA": "870024940"
+  },
+  {
+    "PRODUCT": "EasyMax Index",
+    "RETAILER_ID": 870024940,
+    "CUSTOMER_CLASS": "Small Commercial",
+    "STRATEGY": "Index",
+    "LOCATION": 870024940,
+    "TRADEBOOK": "Mass Markets",
+    "SUBBOOK": "Small Commercial",
+    "LOCATION_EKA": "870024940"
+  },
+  {
+    "PRODUCT": "EasyMax MPVV",
+    "RETAILER_ID": 870024940,
+    "CUSTOMER_CLASS": "Small Commercial",
+    "STRATEGY": " Matched",
+    "LOCATION": 870024940,
+    "TRADEBOOK": "Mass Markets",
+    "SUBBOOK": "Small Commercial",
+    "LOCATION_EKA": "870024940"
+  },
+  {
+    "PRODUCT": "DEFAULT",
+    "RETAILER_ID": 585812092,
+    "CUSTOMER_CLASS": "Commercial",
+    "STRATEGY": "Default",
+    "LOCATION": 585812092,
+    "TRADEBOOK": "Regulated",
+    "SUBBOOK": "Default",
+    "LOCATION_EKA": "585812092"
+  },
+  {
+    "PRODUCT": "Red Deer RRO",
+    "RETAILER_ID": 790905237,
+    "CUSTOMER_CLASS": "Residential",
+    "STRATEGY": "Red Deer RRO",
+    "LOCATION": 790905237,
+    "TRADEBOOK": "Regulated",
+    "SUBBOOK": "Residential",
+    "LOCATION_EKA": "790905237"
+  },
+  {
+    "PRODUCT": "Ponoka RRO",
+    "RETAILER_ID": 790905237,
+    "CUSTOMER_CLASS": "Residential",
+    "STRATEGY": "Ponoka RRO",
+    "LOCATION": 790905237,
+    "TRADEBOOK": "Regulated",
+    "SUBBOOK": "Residential",
+    "LOCATION_EKA": "790905237"
+  },
+  {
+    "PRODUCT": "Amps RRO",
+    "RETAILER_ID": 790905237,
+    "CUSTOMER_CLASS": "Residential",
+    "STRATEGY": "AMPS RRO",
+    "LOCATION": 790905237,
+    "TRADEBOOK": "Regulated",
+    "SUBBOOK": "Residential",
+    "LOCATION_EKA": "790905237"
+  },
+  {
+    "PRODUCT": "Red Deer RRO",
+    "RETAILER_ID": 790905237,
+    "CUSTOMER_CLASS": "Small Commercial",
+    "STRATEGY": "Red Deer RRO",
+    "LOCATION": 790905237,
+    "TRADEBOOK": "Regulated",
+    "SUBBOOK": "Small Commercial",
+    "LOCATION_EKA": "790905237"
+  },
+  {
+    "PRODUCT": "Ponoka RRO",
+    "RETAILER_ID": 790905237,
+    "CUSTOMER_CLASS": "Small Commercial",
+    "STRATEGY": "Ponoka RRO",
+    "LOCATION": 790905237,
+    "TRADEBOOK": "Regulated",
+    "SUBBOOK": "Small Commercial",
+    "LOCATION_EKA": "790905237"
+  },
+  {
+    "PRODUCT": "Amps RRO",
+    "RETAILER_ID": 790905237,
+    "CUSTOMER_CLASS": "Small Commercial",
+    "STRATEGY": "AMPS RRO",
+    "LOCATION": 790905237,
+    "TRADEBOOK": "Regulated",
+    "SUBBOOK": "Small Commercial",
+    "LOCATION_EKA": "790905237"
+  },
+  {
+    "PRODUCT": "VALEO_BLOCK",
+    "RETAILER_ID": 437618434,
+    "CUSTOMER_CLASS": "Commercial",
+    "STRATEGY": "Block",
+    "LOCATION": 437618434,
+    "TRADEBOOK": "Enmax Commercial Services",
+    "SUBBOOK": "Oil & Gas",
+    "LOCATION_EKA": "437618434"
+  },
+  {
+    "PRODUCT": "VALEO_FLEX",
+    "RETAILER_ID": 437618434,
+    "CUSTOMER_CLASS": "Commercial",
+    "STRATEGY": "Index",
+    "LOCATION": 437618434,
+    "TRADEBOOK": "Enmax Commercial Services",
+    "SUBBOOK": "Oil & Gas",
+    "LOCATION_EKA": "437618434"
+  },
+  {
+    "PRODUCT": "VALEO_THRESHOLD",
+    "RETAILER_ID": 437618434,
+    "CUSTOMER_CLASS": "Commercial",
+    "STRATEGY": "Load Following",
+    "LOCATION": 437618434,
+    "TRADEBOOK": "Enmax Commercial Services",
+    "SUBBOOK": "Oil & Gas",
+    "LOCATION_EKA": "437618434"
+  },
+  {
+    "PRODUCT": "Block ",
+    "RETAILER_ID": 930416286,
+    "CUSTOMER_CLASS": "Commercial",
+    "STRATEGY": "FPVV",
+    "LOCATION": 930416286,
+    "TRADEBOOK": "Mass Markets",
+    "SUBBOOK": "Residential",
+    "LOCATION_EKA": "AB.Retail"
+  },
+  {
+    "PRODUCT": "THRESHOLD",
+    "RETAILER_ID": 930416286,
+    "CUSTOMER_CLASS": "Commercial",
+    "STRATEGY": "Default",
+    "LOCATION": 930416286,
+    "TRADEBOOK": "967AB",
+    "SUBBOOK": "Commercial",
+    "LOCATION_EKA": "Retail"
+  },
+  {
+    "PRODUCT": "FPVV",
+    "RETAILER_ID": 930416286,
+    "CUSTOMER_CLASS": "Commercial",
+    "STRATEGY": "FPVV",
+    "LOCATION": 930416286,
+    "TRADEBOOK": "CNIEM",
+    "SUBBOOK": "Commercial",
+    "LOCATION_EKA": "930416286"
+  },
+  {
+    "PRODUCT": "FLEX",
+    "RETAILER_ID": 930416286,
+    "CUSTOMER_CLASS": "Commercial",
+    "STRATEGY": "Index",
+    "LOCATION": 930416286,
+    "TRADEBOOK": "CNIEM",
+    "SUBBOOK": "Commercial",
+    "LOCATION_EKA": "930416286"
+  },
+  {
+    "PRODUCT": "Block ",
+    "RETAILER_ID": 948554635,
+    "CUSTOMER_CLASS": "Commercial",
+    "STRATEGY": "Block",
+    "LOCATION": 948554635,
+    "TRADEBOOK": "CNIEM",
+    "SUBBOOK": "Commercial",
+    "LOCATION_EKA": "948554635"
+  },
+  {
+    "PRODUCT": "THRESHOLD",
+    "RETAILER_ID": 948554635,
+    "CUSTOMER_CLASS": "Commercial",
+    "STRATEGY": "Load Following",
+    "LOCATION": 948554635,
+    "TRADEBOOK": "CNIEM",
+    "SUBBOOK": "Commercial",
+    "LOCATION_EKA": "948554635"
+  },
+  {
+    "PRODUCT": "FLEX",
+    "RETAILER_ID": 948554635,
+    "CUSTOMER_CLASS": "Commercial",
+    "STRATEGY": "Index",
+    "LOCATION": 948554635,
+    "TRADEBOOK": "CNIEM",
+    "SUBBOOK": "Commercial",
+    "LOCATION_EKA": "948554635 - CNIEM"
+  },
+  {
+    "PRODUCT": "Block",
+    "RETAILER_ID": 860090133,
+    "CUSTOMER_CLASS": "Commercial",
+    "STRATEGY": "Block",
+    "LOCATION": 860090133,
+    "TRADEBOOK": "967 AB",
+    "SUBBOOK": "Commercial",
+    "LOCATION_EKA": "860090133"
+  },
+  {
+    "PRODUCT": "THRESHOLD",
+    "RETAILER_ID": 860090133,
+    "CUSTOMER_CLASS": "Commercial",
+    "STRATEGY": "Load Following",
+    "LOCATION": 860090133,
+    "TRADEBOOK": "967 AB",
+    "SUBBOOK": "Commercial",
+    "LOCATION_EKA": "860090133"
+  },
+  {
+    "PRODUCT": "FPVV",
+    "RETAILER_ID": 860090133,
+    "CUSTOMER_CLASS": "Commercial",
+    "STRATEGY": "FPVV",
+    "LOCATION": 860090133,
+    "TRADEBOOK": "967 AB",
+    "SUBBOOK": "Commercial",
+    "LOCATION_EKA": "860090133"
+  },
+  {
+    "PRODUCT": "FLEX",
+    "RETAILER_ID": 860090133,
+    "CUSTOMER_CLASS": "Commercial",
+    "STRATEGY": "Index",
+    "LOCATION": 860090133,
+    "TRADEBOOK": "967 AB",
+    "SUBBOOK": "Commercial",
+    "LOCATION_EKA": "860090133"
+  },
+  {
+    "PRODUCT": "Block",
+    "RETAILER_ID": 866314113,
+    "CUSTOMER_CLASS": "Commercial",
+    "STRATEGY": "Block",
+    "LOCATION": 866314113,
+    "TRADEBOOK": "967 AB",
+    "SUBBOOK": "Commercial",
+    "LOCATION_EKA": "866314113"
+  },
+  {
+    "PRODUCT": "THRESHOLD",
+    "RETAILER_ID": 866314113,
+    "CUSTOMER_CLASS": "Commercial",
+    "STRATEGY": "Load Following",
+    "LOCATION": 866314113,
+    "TRADEBOOK": "967 AB",
+    "SUBBOOK": "Commercial",
+    "LOCATION_EKA": "866314113"
+  },
+  {
+    "PRODUCT": "FLEX",
+    "RETAILER_ID": 866314113,
+    "CUSTOMER_CLASS": "Commercial",
+    "STRATEGY": "Index",
+    "LOCATION": 866314113,
+    "TRADEBOOK": "967 AB",
+    "SUBBOOK": "Commercial",
+    "LOCATION_EKA": "866314113"
+  }
+]
